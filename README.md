@@ -66,11 +66,8 @@ print("\nYtrain:\n" ,Ytrain, "\nYtest:\n", Ytest)
 ## OUTPUT:
 <img width="1051" height="223" alt="image" src="https://github.com/user-attachments/assets/760583f1-3410-42ce-9b09-ed2cfc475f37" />
 <img width="654" height="286" alt="image" src="https://github.com/user-attachments/assets/fb9f5899-f951-4418-b53c-ac5c0d850df7" />
-## NORMALIZED DATA:
- <img width="721" height="173" alt="image" src="https://github.com/user-attachments/assets/1718b9bc-326b-4fef-ad75-6f270f72c262" />
-## DATA SPLITTING:
+<img width="721" height="173" alt="image" src="https://github.com/user-attachments/assets/1718b9bc-326b-4fef-ad75-6f270f72c262" />
 <img width="598" height="347" alt="image" src="https://github.com/user-attachments/assets/0001695e-1ec6-46cb-a3dc-319744d6f568" />
-## Test data
 <img width="639" height="684" alt="image" src="https://github.com/user-attachments/assets/d0c227b0-c1fa-47ef-bbf4-363555bf63cf" />
 
 
